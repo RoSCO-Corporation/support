@@ -4,6 +4,11 @@
 
 - [👋 Welcome!](https://support.rosco.firxd.me/index.md): 👋 Welcome!
 
+## Staff Information
+
+- [Ticket Creation Reasons](https://support.rosco.firxd.me/staff-information/ticket-creation-reasons.md): TOC
+- [Policies](https://support.rosco.firxd.me/staff-information/policies.md): Here, community members can find some of RoSCO's policies.
+
 ## Tickets
 
 - [Ticket Creation Reasons](https://support.rosco.firxd.me/tickets/ticket-creation-reasons.md): TOC

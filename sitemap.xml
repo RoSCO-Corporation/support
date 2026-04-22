@@ -2,18 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://support.rosco.firxd.me/</loc>
-    <lastmod>2026-04-22T13:36:27Z</lastmod>
+    <lastmod>2026-04-22T14:53:44Z</lastmod>
+  </url>
+  <url>
+    <loc>https://support.rosco.firxd.me/staff-information/ticket-creation-reasons/</loc>
+    <lastmod>2026-04-22T14:53:44Z</lastmod>
+  </url>
+  <url>
+    <loc>https://support.rosco.firxd.me/staff-information/policies/</loc>
+    <lastmod>2026-04-22T14:53:44Z</lastmod>
   </url>
   <url>
     <loc>https://support.rosco.firxd.me/tickets/ticket-creation-reasons/</loc>
-    <lastmod>2026-04-22T13:36:27Z</lastmod>
+    <lastmod>2026-04-22T14:53:44Z</lastmod>
+  </url>
+  <url>
+    <loc>https://support.rosco.firxd.me/categories/</loc>
   </url>
   <url>
     <loc>https://support.rosco.firxd.me/tickets/player-report-format/</loc>
-    <lastmod>2026-04-22T13:36:27Z</lastmod>
+    <lastmod>2026-04-22T14:53:44Z</lastmod>
+  </url>
+  <url>
+    <loc>https://support.rosco.firxd.me/tags/</loc>
   </url>
   <url>
     <loc>https://support.rosco.firxd.me/tags/tickets/</loc>
+  </url>
+  <url>
+    <loc>https://support.rosco.firxd.me/categories/staff/</loc>
   </url>
   <url>
     <loc>https://support.rosco.firxd.me/categories/tickets/</loc>
@@ -22,9 +39,18 @@
     <loc>https://support.rosco.firxd.me/tags/overview/</loc>
   </url>
   <url>
-    <loc>https://support.rosco.firxd.me/tags/</loc>
+    <loc>https://support.rosco.firxd.me/tags/policies/</loc>
   </url>
   <url>
-    <loc>https://support.rosco.firxd.me/categories/</loc>
+    <loc>https://support.rosco.firxd.me/tags/staff-info/</loc>
+  </url>
+  <url>
+    <loc>https://support.rosco.firxd.me/categories/policies/</loc>
+  </url>
+  <url>
+    <loc>https://support.rosco.firxd.me/categories/ranks/</loc>
+  </url>
+  <url>
+    <loc>https://support.rosco.firxd.me/categories/info/</loc>
   </url>
 </urlset>
