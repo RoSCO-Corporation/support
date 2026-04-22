@@ -1,5 +1,5 @@
 ---
-icon: megaphone
+icon: clipboard
 label: Staff Policies
 order: 1
 tags: [Policies]
