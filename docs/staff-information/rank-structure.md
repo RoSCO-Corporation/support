@@ -1,7 +1,7 @@
 ---
 icon: note
 label: Rank Structure
-order: 2
+order: 4
 tags: [Staff Info]
 authors: 
     - name: FirXD

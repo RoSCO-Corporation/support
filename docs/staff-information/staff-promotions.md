@@ -1,7 +1,7 @@
 ---
 icon: arrow-up
 label: Staff Promotions
-order: 4
+order: 2
 tags: [Staff Info]
 authors: 
     - name: FirXD

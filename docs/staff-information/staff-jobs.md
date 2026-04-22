@@ -1,7 +1,7 @@
 ---
 icon: workflow
 label: Staff Jobs
-order: 5
+order: 1
 tags: [Staff Info]
 authors: 
     - name: FirXD

@@ -1,7 +1,7 @@
 ---
 icon: clipboard
 label: Staff Policies
-order: 1
+order: 5
 tags: [Policies]
 authors: 
     - name: FirXD
