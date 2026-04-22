@@ -1,27 +1,17 @@
 input: ./docs
 output: .retype
 
-url: support.whitehill.group
+url: support.rosco.firxd.me
 
 branding:
 #  title: Whitehill Support # not using since we have the logo
-  logo: /static/assets/whg_logo_dark.png
-  logoDark: /static/assets/whg_logo.png
+  logo: /static/assets/rosco_logo_dark.png
+  logoDark: /static/assets/rosco_logo.png
 
-links:
-  - text: Axon Portal
-    link: https://axon.whitehill.group
-    icon: desktop-download
-    target: blank
 
   - text: Discord Server
-    link: https://discord.whitehill.group
+    link: https://discord.gg/xrpSdHxS9e
     icon: comment-discussion
-    target: blank
-
-  - text: Roblox Group
-    link: https://www.roblox.com/communities/5150453
-    icon: people
     target: blank
 
 #edit:
@@ -30,22 +20,18 @@ links:
 # docs are under /docs, not the root ~roax
 
 meta:
-  title: " | Whitehill Support"
+  title: " | RoSCO"
 
 footer:
-  copyright: "&copy; {{ year }} Whitehill Group & Contributors." # legal nightmare
+  copyright: "&copy; {{ year }} RoSCO & Contributors." # legal nightmare
 
   links:
     - text: Service Status
-      link: https://status.whitehill.group
+      link: https://status.rosco.firxd.me
       icon: meter
       target: blank
 
     - text: Contribute
-      link: https://github.com/WhitehillGroup/support
+      link: https://github.com/RoSCO-Corporation/support
       icon: mark-github
       target: blank
-      
-    - text: Terms Of Use
-      link: /terms.md
-      icon: book
