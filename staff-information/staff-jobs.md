@@ -1,5 +1,5 @@
 # Store Jobs
-This guide will outline the many departments BloxStreet staff members are permitted to work at, along with in-depth instructions on how to provide guests with the most pleasant experience possible.
+This guide will outline the many departments RoSCO staff members are permitted to work at, along with in-depth instructions on how to provide guests with the most pleasant experience possible.
 
 ## Table of contents
 
