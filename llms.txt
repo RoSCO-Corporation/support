@@ -1,10 +1,10 @@
-﻿#  | Whitehill Support
+﻿#  | RoSCO
 
 > RoSCO is one of many store-based establishments on the Roblox playform that strive to provide a realistic, interactive, and welcoming experince for all. Our staff and HR teams work hard to ensure that our visions are borught to life.
 
-- [👋 Welcome!](https://support.whitehill.group/index.md): 👋 Welcome!
+- [👋 Welcome!](https://support.rosco.firxd.me/index.md): 👋 Welcome!
 
 ## Tickets
 
-- [Ticket Creation Reasons](https://support.whitehill.group/tickets/ticket-creation-reasons.md): TOC
-- [Player Report Format](https://support.whitehill.group/tickets/player-report-format.md): When creating a ticket for a player report, community members should use the format found below. Any player report not following the format will be ignored.
+- [Ticket Creation Reasons](https://support.rosco.firxd.me/tickets/ticket-creation-reasons.md): TOC
+- [Player Report Format](https://support.rosco.firxd.me/tickets/player-report-format.md): When creating a ticket for a player report, community members should use the format found below. Any player report not following the format will be ignored.
