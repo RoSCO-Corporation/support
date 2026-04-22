@@ -1,5 +1,5 @@
 ---
-icon: bookmark-filled
+icon: bookmark
 label: Staff Policies
 order: 5
 tags: [Policies]
