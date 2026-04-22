@@ -121,7 +121,7 @@ This section will outline each of the tests trainers are expected to perform. If
 
 
 ### Grammar/Greeting Test
-For the Grammar/Greeting Test, trainers must explain how this test works. Make sure to have all LRs state their greetings. **IMPORTANT: Do not fail LRs for minor grammatical errors. If their greetings are understandable, pass them.** Feel free to give out tips if needed. Make sure to remind them to copy and paste their greeting, as it makes things much quicker on their behalf. If an LR spells ‘BloxStreet’ incorrectly during the Greeting Test, the trainer should tell the LR to repeat their greeting. If they pass, move on to the next test. If they fail, state the fail prompt and kick them from the server with the reason "Failed." 
+For the Grammar/Greeting Test, trainers must explain how this test works. Make sure to have all LRs state their greetings. **IMPORTANT: Do not fail LRs for minor grammatical errors. If their greetings are understandable, pass them.** Feel free to give out tips if needed. Make sure to remind them to copy and paste their greeting, as it makes things much quicker on their behalf. If an LR spells RoSCO incorrectly during the Greeting Test, the trainer should tell the LR to repeat their greeting. If they pass, move on to the next test. If they fail, state the fail prompt and kick them from the server with the reason "Failed." 
 
 ### Cafe Test
 
@@ -132,14 +132,10 @@ The next part of training is the Cafe Test. In this test, LRs will be asked to p
 The next part of training is the Register Test. In this test, LRs will roleplay a series of steps required in order to check someone out. If they do not know how to send a payment request, explain the process to them. Make sure they state a greeting and outro, ask what the desired form of payment is, and remind the trainer to scan their card, all while utilizing understandable grammar. If they fail, state the fail prompt and kick them from the server with the reason "Failed."
 
 ### Passing LRs
-{: .text-purple-100 }
-{: .no_toc }
 
-If the group of LRs pass, the trainer should use the :ff command on them, and take them to one of the purple/pink lines in the training room. The Host/Co-Host will rank them accordingly and then kick them from the game. If a player disconnects before getting ranked but has passed the training, contact an available Executive Assistant+. The ranker should ask an available SHR for ranking permission.
+If the group of LRs pass, the trainer should use the :ff (forcefield) command on them, and take them to one of the purple/pink lines in the training room. The Host/Co-Host will rank them accordingly and then kick them from the game. If a player disconnects before getting ranked but has passed the training, contact an available Board of Directors+. The ranker should ask an available SHR for ranking permission.
 
 ### Training Process
-{: .text-blue-000 }
-{: .no_toc }
 
 This section will provide trainers with the training script. Trainers may not modify this script. The use of emojis is permitted.
 
@@ -159,25 +155,23 @@ This section will provide trainers with the training script. Trainers may not mo
 
 **Trainer:** *If I happen to disconnect, please wait until I rejoin. Do NOT move to a different station.*
 
-**Trainer:** *If you disconnect from the server, you may attend the next training session. The training schedule can be found in the staff room, which is located in the store.*
+**Trainer:** *You are not whitelisted from our server lock, meaning that if you disconnect, you'll be required to go to a later training session.*
 
 **Trainer:** *Does anyone have any questions? A response from every Trainee is mandatory.*
 
 At this point, all LRs must respond. If they reply with a positive answer, proceed. If not, answer any questions LRs may have until they are ready to begin. Trainers have a right to proceed if the questions are slowing the group down. 
 
 ### Grammar / Greeting Test Script
-{: .text-blue-000 }
-{: .no_toc }
 
 **This test takes place at the cafe counter.**
 
-At this point, the Grammar/Greeting Test will begin. Read [this section](https://support.bloxstreet.store/guides/training-guide.html#grammargreeting-test) to learn how to perform it. 
+At this point, the Grammar/Greeting Test will begin. Read [this section](https://support.rosco.firxd.me/guides/training-guide#grammargreeting-test) to learn how to perform it. 
 
 **Trainer:** *We will start this training with the Grammar/Greeting Test.*
 
 **Trainer:** *When a guest approaches your register at the store, you must greet them with a polite greeting.*
 
-**Trainer:** *Here is an example of a greeting: “Hello! Welcome to BloxStreet Shopping Center! My name is (username), how may I assist you today?”*
+**Trainer:** *Here is an example of a greeting: “Hello! Welcome to RoSCO! My name is (username), how may I assist you today?”*
 
 **Trainer:** *You are welcome to add adjectives or emojis to your greeting. Feel free to customize it to your liking.*
 
@@ -185,14 +179,12 @@ At this point, the Grammar/Greeting Test will begin. Read [this section](https:/
 
 **Wait for all LRs to state their greetings.** 
 
-**If their greetings are understandable, pass them. Trainers should not be strict. If one lacks understandable grammar, use the line below. If an LR spells 'BloxStreet' incorrectly, follow the procedure [here](https://support.bloxstreet.store/guides/training-guide.html#grammargreeting-test).**
+**If their greetings are understandable, pass them. Trainers should not be strict. If one lacks understandable grammar, use the line below. If an LR spells 'RoSCO' incorrectly, follow the procedure [here](https://support.rosco.firxd.me/guides/training-guide#grammargreeting-test).**
 
 **Trainer:** *Unfortunately, you have failed this training session due to a lack of understandable grammar in your greeting. You are always welcome to attend another session.*
 
 
 ### Cafe Test Script
-{: .text-blue-000 }
-{: .no_toc }
 
 **This test takes place at the cafe counter.**
 
@@ -208,7 +200,7 @@ At this point, the Grammar/Greeting Test will begin. Read [this section](https:/
 
 **At this point, show them how to make a simple coffee.**
 
-**Trainer:** *We also have a slush machine at BloxStreet that allows our guests to choose from two flavored slushies.*
+**Trainer:** *We also have a slush machine that allows our guests to choose from two flavored slushies.*
 
 **Trainer:** *This machine requires a COLD CUP.*
 
@@ -216,7 +208,7 @@ At this point, the Grammar/Greeting Test will begin. Read [this section](https:/
 
 **At this point, take your LRs back to the cafe counter.**
 
-**Trainer:** *To use the POS system, scan your BloxStreet Staff Card on the screen to sign in.*
+**Trainer:** *To use the POS system, scan your Staff Card on the screen to sign in.*
 
 **Trainer:** *Once signed in, scan any items the customer has ordered, and click "Finish Transaction." The customer will be required to tap their Cash Card on the reader.*
 
@@ -234,7 +226,7 @@ At this point, the Grammar/Greeting Test will begin. Read [this section](https:/
 
 **Trainer:**  *Hi! Could I get a Regular Coffee and a Cherry Slush?*
 
-**Assist the LR as needed. Follow the procedure [here](https://support.bloxstreet.store/guides/training-guide.html#cafe-test) if an LR gives the wrong order.**
+**Assist the LR as needed. Follow the procedure [here](https://support.rosco.firxd.me/guides/training-guide#cafe-test) if an LR gives the wrong order.**
 
 **If they pass, proceed to the next LR. If they fail, use the line below.**
 
@@ -243,8 +235,6 @@ At this point, the Grammar/Greeting Test will begin. Read [this section](https:/
 
 
 ### Register Test Script
-{: .text-blue-000 }
-{: .no_toc }
 
 **This test takes place at the register.**
 
@@ -260,7 +250,7 @@ At this point, the Grammar/Greeting Test will begin. Read [this section](https:/
 
 **Trainer:** *Click "Robux Payment" or "Card Payment," depending on the guest's preference.*
 
-**Trainer:** *Remind the customer to scan their BloxStreet Cash Card on the payment screen, and after doing so, inform the guest to enjoy the rest of their day.*
+**Trainer:** *Remind the customer to scan their Cash Card on the payment screen, and after doing so, inform the guest to enjoy the rest of their day.*
 
 **Trainer:** *Is everyone here ready to begin the test? A response from every LR is mandatory.*
 
@@ -280,12 +270,10 @@ If all LRs say yes, begin. If they say no, answer any questions until they are r
 
 
 ### Passing LRs
-{: .text-blue-000 }
-{: .no_toc }
 
 **Trainer:** *Congratulations to everyone who passed the Register Test! You have each completed all tests, meaning we can now conclude this training.*
 
-**Trainer:** *If you have any further questions, be sure to join our communications server. The code is ‘bloxstreet’.*
+**Trainer:** *If you have any further questions, be sure to join our communications server. The code is 'rosco'.*
 
 **Trainer:** *Please follow me to the purple ranking line so you can be ranked. Congratulations on passing!*
 
@@ -299,7 +287,6 @@ If all LRs say yes, begin. If they say no, answer any questions until they are r
 
 
 ## Training Conclusion
-{: .text-red-300 }
 Once the training has ended, there should be no LRs remaining and very few HRs. All trainers must leave the server after they have finished training. If there are players left, encourage them to head to the store. Nothing else should be happening after training sessions. Providing in-game feedback is unnecessary. Have an SHR shutdown or run :place all if there are many players remaining in the server.
 
 Leave the server when finished training. Trainers should not do anything else unless instructed otherwise by an SHR. 
