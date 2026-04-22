@@ -1,29 +1,27 @@
 input: ./docs
 output: .retype
 
-url: support.rosco.firxd.me
+url: https://support.rosco.firxd.me
 
 branding:
-  title: RoSCO Support # not using since we have the logo
-#  logo: /static/assets/rosco_logo_dark.png
-#  logoDark: /static/assets/rosco_logo.png
+  title: RoSCO Support
+  # logo: /static/assets/rosco_logo_dark.png
+  # logoDark: /static/assets/rosco_logo.png
 
-
+links:
   - text: Discord Server
     link: https://discord.gg/xrpSdHxS9e
     icon: comment-discussion
     target: blank
 
-#edit:
-#  repo: "https://github.com/WhitehillGroup/support/edit/"
-# has to be disabled due to retype bug, doesnt respect that all
-# docs are under /docs, not the root ~roax
+# edit:
+#   repo: "https://github.com/WhitehillGroup/support/edit/"
 
 meta:
   title: " | RoSCO"
 
 footer:
-  copyright: "&copy; {{ year }} RoSCO & Contributors." # legal nightmare
+  copyright: "&copy; {{ year }} RoSCO & Contributors."
 
   links:
     - text: Service Status
