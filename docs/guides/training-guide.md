@@ -12,13 +12,9 @@ categories:
   - Guides
 ---
 # Training Guide
-{: .no_toc }
-
 ## Table of Contents
-{: .no_toc .text-delta }
 
 1. TOC
-{:toc}
 
 The purpose of this guide is to teach Store Manager+ what to do at training sessions and what to say when training Low Ranks. 
 
@@ -26,7 +22,6 @@ The purpose of this guide is to teach Store Manager+ what to do at training sess
 * The text in **bold** are instructions of what trainers should do during training sessions. 
 
 ## Training Session Times
-{: .text-red-300 }
 
 Training sessions may only be hosted at the following times:
 
@@ -44,7 +39,6 @@ Training sessions may only be hosted at the following times:
 
 
 ## Training Behavior and Information
-{: .text-red-300 }
 
 * Trainers should not rush through the script. Allow LRs to have time to read the information being provided.
 * MRs and HRs should avoid chatting while in-game. Do so through the communications server.
@@ -52,31 +46,25 @@ Training sessions may only be hosted at the following times:
 * LRs are welcome to go AFK for three minutes if they inform their assigned trainer. LRs may only go AFK twice per session.
 
 ## Rank Information
-{: .text-red-300 }
 Below is an overview of each rank's job at training sessions.
 
 | Job        | Description          | Eligible Ranks | Quantity | 
 |:-------------|:------------------|:------|:-------------------|
-| Host | The Host should join the Training Center at :35 and claim the session using the GUI at :45. The Host is responsible for leading the training session, stating the introduction, asking trainers if they have the correct version of the guide, whitelisting trainers while teleporting LRs, supervising and ensuring the session is running smoothly, and ranking. | Board of Directors+ | **1** host per training |
-| Co-Host | The Co-Host should join the Training Center at :35. The Co-Host is responsible for helping lead the training session, doing the group shouts, asking trainers if they have the correct version of the guide, taking training attendance using the proper format, supervising and ensuring the session is running smoothly, and ranking. | Board of Directors+  | **1** co-host per training - an Board of Directors+ may choose to host by themselves |
+| Host | The Host should join the Training Center at :35 and claim the session using the GUI at :45. The Host is responsible for leading the training session, stating the introduction, asking trainers if they have the correct version of the guide, whitelisting trainers while teleporting LRs, supervising and ensuring the session is running smoothly, and ranking. | Store Director+ | **1** host per training |
+| Co-Host | The Co-Host should join the Training Center at :35. The Co-Host is responsible for helping lead the training session, doing the group shouts, asking trainers if they have the correct version of the guide, taking training attendance using the proper format, supervising and ensuring the session is running smoothly, and ranking. | Store Director+  | **1** co-host per training - any Store Director+ may choose to host by themselves |
 | Ranker           | Rankers are responsible for ranking all LRs who pass. Rankers are required to supervise the training session after teleportation and before ranking. They should stand near the ranking lines before teleportation begins. Rankers may not train and then rank. They are also responsible for running the :info command on each LR and ensuring that they have been ranked successfully. | Board of Directors+ | **2-3** rankers per training
-| Announcer | The announcer is responsible for announcing the training session in all large servers of the store. The Host selects the announcer.| Store Director+ | **1** announcer per training
-| Trainer           | Trainers join the Training Center at :45 and follow the instructions laid out in this guide. Trainers perform a series of tests and determine whether their LRs pass based on the criteria in this guide. They should also answer any inquiries from LRs once the teleportation process has finished. | Store Manager+ | Maximum of **16 trainers** (1 trainer per counter)  |
+| Announcer | The announcer is responsible for announcing the training session in all large servers of the store. The Host selects the announcer.| Assistant Director+ | **1** announcer per training
+| Trainer           | Trainers join the Training Center at :45 and follow the instructions laid out in this guide. Trainers perform a series of tests and determine whether their LRs pass based on the criteria in this guide. They should also answer any inquiries from LRs once the teleportation process has finished. | Assistant Manager+ | Maximum of **16 trainers** (1 trainer per counter)  |
 | Lower Ranks | Lower Ranks (LRs) attend training sessions and follow all instructions to receive a possible promotion. | Trainee Team Member, Junior Team Member, and Senior Team Member | No maximum | 
 | Spectators | Spectators supervise training and ensure everything is running smoothly. | Junior Moderator+ | No maximum | 
 
 ##### **ANY RANK LISTED BELOW MAY NOT PARTICIPATE IN TRAINING:**
-{: .text-yellow-200 }
-{: .no_toc }
-(Customer, Allied Representative, Noted Customer, Management Intern, Team Leader, Store Supervisor, Assistant Manager)
+(Customer, Allied Representative, Noted Customer, Store Intern, Floor Supervisor, Floor Manager)
 
 ## Host and Co-Host Scripts
-{: .text-red-300 }
 This section outlines the duties the Host and Co-Host have and what they should say.
 
 ### Host and Co-Host: Claiming
-{: .text-yellow-200 }
-{: .no_toc }
 
 At :35 (25 minutes prior to the commencement of the session), the Host and Co-Host should arrive at the Training Center. It is both the Host and Co-Host's responsibility to ensure they are online and arrive on time.
 
@@ -86,8 +74,6 @@ At :45 (15 minutes prior to the commencement), the Host should claim the session
 
 
 ### Host and Co-Host: After Claiming
-{: .text-yellow-200 }
-{: .no_toc }
 
 At this point, the Host and Co-Host should stand on their designated line. As LRs join the server, the Host should state the line below.
 
@@ -98,9 +84,6 @@ At this point, the Host and Co-Host should stand on their designated line. As LR
 The Host should say the line above at :57. 
 
 ### Host and Co-Host: Training Commences
-{: .text-yellow-200 }
-{: .no_toc }
-
 At :00 (0 minutes prior to the commencement), the Host should type **/e :slock**, and the Co-Host should send the second group shout. Once all of the LRs are silent, the Host and Co-Host may begin to state their introduction lines. The Host and Co-Host may kick LRs who refuse to remain silent.
 
 **Host:** *Greetings, everyone! Welcome to today’s training session! My name is (username), and I am your host.*
@@ -119,8 +102,6 @@ To begin the presentation, the Host must click the 'Host Settings' button at the
 
 
 ### Host and Co-Host: After Presentation
-{: .text-yellow-200 }
-{: .no_toc }
 
 Once the presentation concludes, LRs are required to remain silent for the Host’s instructions.
 
@@ -136,25 +117,17 @@ At this point, the Host must head inside the training room and teleport LRs to e
 
 
 ## Trainer Scripts
-{: .text-red-300 }
 This section will outline each of the tests trainers are expected to perform. If an LR has to go AFK, the trainer should not wait for them to return. The AFK limit is three minutes, meaning the LR should not miss too much if the trainer goes at an average pace. When the LR returns from being AFK, the trainer should summarize the topics that were covered. Additionally, the trainer should conduct any tests missed. If all LRs disconnect or fail the training session, the trainer should leave the server immediately without informing the Host or Co-Host. 
 
 
 ### Grammar/Greeting Test
-{: .text-purple-100 }
-{: .no_toc }
-
 For the Grammar/Greeting Test, trainers must explain how this test works. Make sure to have all LRs state their greetings. **IMPORTANT: Do not fail LRs for minor grammatical errors. If their greetings are understandable, pass them.** Feel free to give out tips if needed. Make sure to remind them to copy and paste their greeting, as it makes things much quicker on their behalf. If an LR spells ‘BloxStreet’ incorrectly during the Greeting Test, the trainer should tell the LR to repeat their greeting. If they pass, move on to the next test. If they fail, state the fail prompt and kick them from the server with the reason "Failed." 
 
 ### Cafe Test
-{: .text-purple-100 }
-{: .no_toc }
 
 The next part of training is the Cafe Test. In this test, LRs will be asked to prepare an order. LRs must utilize understandable grammar in this test. Ensure that LRs are aware of how the slush machine works and that it has two flavors that can be selected with a cold cup. If an LR gets the wrong drink during the Cafe Test, the trainer should repeat the order and request the drink again. If the LR still brings the incorrect drink, state the fail prompt and kick them from the server with the reason "Failed." For this test, LRs should use the POS system.
 
 ### Register Test
-{: .text-purple-100 }
-{: .no_toc }
 
 The next part of training is the Register Test. In this test, LRs will roleplay a series of steps required in order to check someone out. If they do not know how to send a payment request, explain the process to them. Make sure they state a greeting and outro, ask what the desired form of payment is, and remind the trainer to scan their card, all while utilizing understandable grammar. If they fail, state the fail prompt and kick them from the server with the reason "Failed."
 
