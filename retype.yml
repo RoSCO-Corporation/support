@@ -4,9 +4,9 @@ output: .retype
 url: support.rosco.firxd.me
 
 branding:
-#  title: Whitehill Support # not using since we have the logo
-  logo: /static/assets/rosco_logo_dark.png
-  logoDark: /static/assets/rosco_logo.png
+  title: RoSCO Support # not using since we have the logo
+#  logo: /static/assets/rosco_logo_dark.png
+#  logoDark: /static/assets/rosco_logo.png
 
 
   - text: Discord Server
