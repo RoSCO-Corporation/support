@@ -1,0 +1,51 @@
+input: ./docs
+output: .retype
+
+url: support.whitehill.group
+
+branding:
+#  title: Whitehill Support # not using since we have the logo
+  logo: /static/assets/whg_logo_dark.png
+  logoDark: /static/assets/whg_logo.png
+
+links:
+  - text: Axon Portal
+    link: https://axon.whitehill.group
+    icon: desktop-download
+    target: blank
+
+  - text: Discord Server
+    link: https://discord.whitehill.group
+    icon: comment-discussion
+    target: blank
+
+  - text: Roblox Group
+    link: https://www.roblox.com/communities/5150453
+    icon: people
+    target: blank
+
+#edit:
+#  repo: "https://github.com/WhitehillGroup/support/edit/"
+# has to be disabled due to retype bug, doesnt respect that all
+# docs are under /docs, not the root ~roax
+
+meta:
+  title: " | Whitehill Support"
+
+footer:
+  copyright: "&copy; {{ year }} Whitehill Group & Contributors." # legal nightmare
+
+  links:
+    - text: Service Status
+      link: https://status.whitehill.group
+      icon: meter
+      target: blank
+
+    - text: Contribute
+      link: https://github.com/WhitehillGroup/support
+      icon: mark-github
+      target: blank
+      
+    - text: Terms Of Use
+      link: /terms.md
+      icon: book
