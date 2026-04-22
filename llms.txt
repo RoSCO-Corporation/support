@@ -4,6 +4,10 @@
 
 - [👋 Welcome!](https://support.rosco.firxd.me/index.md): 👋 Welcome!
 
+## Guides
+
+- [Training Guide](https://support.rosco.firxd.me/guides/training-guide.md): TOC
+
 ## Staff Information
 
 - [Policies](https://support.rosco.firxd.me/staff-information/policies.md): Here, community members can find some of RoSCO's policies.
