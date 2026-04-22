@@ -24,8 +24,11 @@ Allied Representative is the second rank at RoSCO. Allied Representatives consis
 ### **Noted Customer**
 Noted Customer is the third rank at RoSCO. Noted Customers have contributed to RoSCO in some way, shape, or form. Noted Customers consist of former SHRs, developers, and graphic designers. This rank is not obtainable and is reserved for specific community members only. 
 
+### **Suspended**
+A member with the suspended rank cannot work and is not normally attainable. This is the fourth rank at RoSCO. 
+
 ### **Trainee**
-Trainee is the fourth rank at RoSCO, and it is considered an **LR** rank. Trainees have successfully passed the quiz and are new staff members who are not yet trained. Trainees may work at all store departments, help restock empty shelves, and clean spills. In order to receive a promotion, Trainees must attend and pass a training session.
+Trainee is the fifth rank at RoSCO, and it is considered an **LR** rank. Trainees have successfully passed the quiz and are new staff members who are not yet trained. Trainees may work at all store departments, help restock empty shelves, and clean spills. In order to receive a promotion, Trainees must attend and pass a training session.
 
 ### **Junior Associate**
 Junior Team Member is the sixth rank at RoSCO, and it is considered an **LR** rank. Junior Team Members have attended and passed one training session. They are allowed to work at all store departments, help restock empty shelves, and clean spills. Additionally, Junior Team Member+ may work as security by purchasing cuffs for 500 Robux. In order to receive a promotion, Junior Team Members must attend and pass another training session.
