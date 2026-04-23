@@ -1,7 +1,7 @@
 ---
 icon: megaphone
 label: Training Guide
-order: 3
+order: 2
 tags: [Guides]
 authors: 
     - name: FirXD

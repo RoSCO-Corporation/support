@@ -1,7 +1,7 @@
 ---
 icon: alert
 label: Punishment Guide
-order: 2
+order: 3
 tags: [Guides]
 authors: 
     - name: FirXD

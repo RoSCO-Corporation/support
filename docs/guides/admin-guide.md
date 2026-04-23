@@ -1,15 +1,15 @@
 ---
-icon: alert
-label: Points Guide
-order: 4
+icon: person
+label: Kronos Admin Guide
+order: 1
 tags: [Guides]
 authors: 
     - name: FirXD
       link: https://github.com/FirTheDeveloper
       avatar: https://cdn.firxd.me/u/bXraZZ.jpeg
 categories:
-  - Points
-  - Ranks
+  - Kronos
+  - Admin
   - Guides
 ---
 # Kronos Admin Guide
