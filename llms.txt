@@ -6,10 +6,10 @@
 
 ## Guides
 
-- [Kronos Admin Guide](https://support.rosco.firxd.me/guides/admin-guide.md): TOC
 - [Points Guide](https://support.rosco.firxd.me/guides/points-guide.md): TOC
-- [Training Guide](https://support.rosco.firxd.me/guides/training-guide.md): TOC
 - [Punishment Guide](https://support.rosco.firxd.me/guides/punishment-guide.md): TOC
+- [Training Guide](https://support.rosco.firxd.me/guides/training-guide.md): TOC
+- [Kronos Admin Guide](https://support.rosco.firxd.me/guides/admin-guide.md): TOC
 
 ## Staff Information
 
