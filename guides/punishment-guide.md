@@ -9,6 +9,7 @@ This guide is intended for everyone.
 Below is a list of rules and their corresponding punishments. Some rules may only apply to staff, while others may apply to everyone.
 
 Some things to note:
+
 - Higher ranks may receive more severe punishments.
 - All of the listed punishments are subject to change based on the severity of the user's actions.
 - Not knowing the rules can still lead to a punishment.
@@ -28,7 +29,7 @@ Some things to note:
 | Inciting a raid | Server ban | Everyone |
 | Spamming | Server ban | Everyone |
 | Trolling | Server ban | Everyone |
-| Alternate account of a blacklisted or permanently banned user | Permanent ban | Everyone | 
+| Alternate account of a blacklisted or permanently banned user | Permanent ban | Everyone |
 | Bypassing or attempting to bypass | Permanent ban | Everyone |
 | Discrimination against race, sexual orientation, or gender | Permanent ban | Everyone |
 | Discussing inappropriate subjects | Permanent ban | Everyone |
@@ -36,7 +37,7 @@ Some things to note:
 | Homophobia | Permanent ban | Everyone |
 | Inappropriate avatar or username | Permanent ban | Everyone |
 | Inappropriate behavior or roleplay | Permanent ban | Everyone |
-| Joking about serious topics | Permanent ban | Everyone | 
+| Joking about serious topics | Permanent ban | Everyone |
 | Major death threats | Permanent ban | Everyone |
 | Offensive language | Permanent ban | Everyone |
 | Playing inappropriate or loud audios | Permanent ban | Everyone |
@@ -95,6 +96,6 @@ Some things to note:
 | Trolling or behaving unprofessionally on an alternate account | Demotion or/and blacklist, depending on the severity of the user's actions | High Ranks |
 | Hosting an unofficial shift or training session | Blacklist | High Ranks |
 | Abusing the group shout | Verbal warning or permanent ban | High Ranks |
-| Claiming an HR rank after resigning or being reformed | Permanent ban | High Ranks
+| Claiming an HR rank after resigning or being reformed | Permanent ban | High Ranks |
 | Playing with ranking sticks or misusing them | Demotion one rank down | Board of Directors+ |
 | Free ranking | Permanent ban | Board of Directors+ |
