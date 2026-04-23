@@ -82,7 +82,7 @@ Tickets are used in RoSCO to report various infractions, request clarifications,
 | Urgent in-game or group issues                                            | Contact an HR                             |
 | Abuse of admin commands (:to, :bring, etc.)                               | Contact a Board of Directors+           |
 | Disrespecting, arguing, or ignoring an HR                                 | Contact a Board of Directors+           |
-| MRs failing to hide TSA commands                                          | Contact a Board of Directors+           |
+| MRs failing to hide Kronos commands                                          | Contact a Board of Directors+           |
 | Using :view on an SHR (MRs)                                               | Contact a Board of Directors+           |
 | Asking for an appeal status                                               | Wait for a DM from Kronos or a helper bot |
 | Abusing the group shout                                                   | Contact an SHR via Direct Messages        |
