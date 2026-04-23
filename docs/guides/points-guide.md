@@ -1,5 +1,5 @@
 ---
-icon: alert
+icon: node
 label: Points Guide
 order: 4
 tags: [Guides]
