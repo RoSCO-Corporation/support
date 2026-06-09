@@ -2,24 +2,24 @@
 
 > RoSCO is one of many store-based establishments on the Roblox playform that strive to provide a realistic, interactive, and welcoming experience for all. Our staff and HR teams work hard to ensure that our visions are borught to life.
 
-- [👋 Welcome!](https://support.rosco.firxd.me/index.md): 👋 Welcome!
+- [👋 Welcome!](https://rosco.support.firxd.me/index.md): 👋 Welcome!
 
 ## Guides
 
-- [Points Guide](https://support.rosco.firxd.me/guides/points-guide.md): TOC
-- [Punishment Guide](https://support.rosco.firxd.me/guides/punishment-guide.md): TOC
-- [Training Guide](https://support.rosco.firxd.me/guides/training-guide.md): TOC
-- [Kronos Admin Guide](https://support.rosco.firxd.me/guides/admin-guide.md): TOC
+- [Points Guide](https://rosco.support.firxd.me/guides/points-guide.md): TOC
+- [Punishment Guide](https://rosco.support.firxd.me/guides/punishment-guide.md): TOC
+- [Training Guide](https://rosco.support.firxd.me/guides/training-guide.md): TOC
+- [Kronos Admin Guide](https://rosco.support.firxd.me/guides/admin-guide.md): TOC
 
 ## Staff Information
 
-- [Policies](https://support.rosco.firxd.me/staff-information/policies.md): Here, community members can find some of RoSCO's policies.
-- [Rank Structure](https://support.rosco.firxd.me/staff-information/rank-structure.md): All of RoSCO's ranks and rank descriptions are found here.
-- [Shift & Training Times](https://support.rosco.firxd.me/staff-information/session-times.md): Here, staff members can find all of RoSCO's shift and training session times.
-- [Staff Promotions](https://support.rosco.firxd.me/staff-information/staff-promotions.md): This guide will outline all of the necessary information regarding promotions at RoSCO. Keep in mind that promotions are a privilege, not a right.
-- [Store Jobs](https://support.rosco.firxd.me/staff-information/staff-jobs.md): This guide will outline the many departments RoSCO staff members are permitted to work at, along with in-depth instructions on how to provide guests with the most pleasant experience possible.
+- [Policies](https://rosco.support.firxd.me/staff-information/policies.md): Here, community members can find some of RoSCO's policies.
+- [Rank Structure](https://rosco.support.firxd.me/staff-information/rank-structure.md): All of RoSCO's ranks and rank descriptions are found here.
+- [Shift & Training Times](https://rosco.support.firxd.me/staff-information/session-times.md): Here, staff members can find all of RoSCO's shift and training session times.
+- [Staff Promotions](https://rosco.support.firxd.me/staff-information/staff-promotions.md): This guide will outline all of the necessary information regarding promotions at RoSCO. Keep in mind that promotions are a privilege, not a right.
+- [Store Jobs](https://rosco.support.firxd.me/staff-information/staff-jobs.md): This guide will outline the many departments RoSCO staff members are permitted to work at, along with in-depth instructions on how to provide guests with the most pleasant experience possible.
 
 ## Tickets
 
-- [Ticket Creation Reasons](https://support.rosco.firxd.me/tickets/ticket-creation-reasons.md): TOC
-- [Player Report Format](https://support.rosco.firxd.me/tickets/player-report-format.md): When creating a ticket for a player report, community members should use the format found below. Any player report not following the format will be ignored.
+- [Ticket Creation Reasons](https://rosco.support.firxd.me/tickets/ticket-creation-reasons.md): TOC
+- [Player Report Format](https://rosco.support.firxd.me/tickets/player-report-format.md): When creating a ticket for a player report, community members should use the format found below. Any player report not following the format will be ignored.
