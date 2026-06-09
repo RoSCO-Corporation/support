@@ -1,7 +1,7 @@
 input: ./docs
 output: .retype
 
-url: https://support.rosco.firxd.me
+url: https://rosco.support.firxd.me
 
 branding:
   # title: RoSCO Support
@@ -25,7 +25,7 @@ footer:
 
   links:
     - text: Service Status
-      link: https://status.rosco.firxd.me
+      link: https://rosco.status.firxd.me
       icon: meter
       target: blank
 
