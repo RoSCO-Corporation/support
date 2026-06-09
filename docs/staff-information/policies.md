@@ -53,6 +53,8 @@ RoSCO does not offer rank transfers if an account has been hacked. It is expecte
 
 If a staff member's account has been compromised, they must inform an SHR through a ticket immediately.
 
+*For my friends who are reading this guide for an EMC Policy, your code is STAFF-POLICY-EMC2*.
+
 ## Investigation Policy
 If an SHR is investigating a staff member or a community member, the SHR has the right to demote that player to Customer until the investigation is complete. The SHR also has the right to remove any Discord role(s) from the player while the investigation is in-progress. Once the investigation is complete, the SHR will either rerank or take appropriate action on the player(s) involved. Additionally, SHRs who are investigating staff members or community members have the right to ask questions, which those involved must answer truthfully. Lastly, SHRs are not required to provide evidence to the players undergoing investigation.
 
