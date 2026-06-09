@@ -1,11 +1,3 @@
-# Kronos Admin Guide
-
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
 Hyperion is RoSCO's administrative system and anti-exploit, custom developed by FirXD and Pixel Softworks. Kronos takes the form of a Discord bot, Roblox module, and a private administrative web panel. Those with Hyperion permissions can utilize these to perform their duties.
 
 ### Commands

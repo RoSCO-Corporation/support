@@ -9,7 +9,7 @@
 - [Points Guide](https://rosco.support.firxd.me/guides/points-guide.md): TOC
 - [Punishment Guide](https://rosco.support.firxd.me/guides/punishment-guide.md): TOC
 - [Training Guide](https://rosco.support.firxd.me/guides/training-guide.md): TOC
-- [Kronos Admin Guide](https://rosco.support.firxd.me/guides/admin-guide.md): TOC
+- [Hyperion Admin Guide](https://rosco.support.firxd.me/guides/admin-guide.md): Hyperion is RoSCO's administrative system and anti-exploit, custom developed by FirXD and Pixel Softworks. Kronos takes the form of a Discord bot, Roblox module, and a private administrative web panel.
 
 ## Staff Information
 
